@@ -2,8 +2,10 @@
 - 👀 I’m interested in ... Artificial Intelligence, Machine Learning, Neural Network, Data Analysis, Python, Data Structure and Algorithm
 - 🌱 I’m currently working as an AI engineer
 - 💞️ I’m looking to collaborate on Traditional ML and Gen AI 
-- 📫 How to reach me ...  https://www.linkedin.com/in/soumyajit-bera-7b117719a/
-https://www.facebook.com/soumyajit.bera.75
+- 📫 How to reach me ...
+- LinkedIn- https://www.linkedin.com/in/soumyajit-bera09/
+
+- Facebook- https://www.facebook.com/soumyajit.bera.75
 
 <!---
 SoumyajitBera/SoumyajitBera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
